@@ -1,0 +1,8 @@
+Ligaria o primeiro interruptor, deixando o ligado por alguns minutos, depois desligaria.
+Em seguida ligaria o segundo interruptor, e deixaria o terceiro desligado
+
+Iria até a sala. Se a lâmpada estivesse ligada, saberia que essa que essa lâmpada é controlada pelo segundo interruptor. Se a lâmpada estivesse desligada, mas quente, saberia que é controlada pelo primeiro interruptor, por ter deixado-a ligada por um tempo, esquentando-a. Mas se estivesse desligado e fria, nunca a liguei, logo ela é controlada pelo terceiro interruptor
+
+Voltaria a sala dos interruptores, já indentificando qual lâmpada aquela é. Supondo que ela é controlada pelo segundo interruptor, desligaria-o e ligaria o terceiro
+
+Indo a outra sala. Se estiver acessa, ela é controlada pelo terceiro interruptor. Se estver apagada é controlada pelo primeiro, já que é esta desligado e não pode ser a lâmpada controlada pelo segundo interruptor, pois já verifiquei

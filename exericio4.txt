@@ -1,0 +1,11 @@
+a) A sequência consiste de números ímpares. Logo o próximo número será 9
+
+b) Cada número é o dobro do anterior. Sendo assim, o próximo é 128
+
+c) É uma sequência de números quadrados, seguindo a sequência dos números naturais. O próximo número é o quadrado de 7, 49
+
+d) Esta é uma sequência dos quadrados de números pares. O próximo seria 10 ao quadrado, 100
+
+e) Essa é a sequência de Fibonacci. Sendo assim, o próximo número é 13, de 8+5
+
+f) A lógica é de números que começam com a letra "D". Logo, o próximo numero é 200 (Duzentos)
